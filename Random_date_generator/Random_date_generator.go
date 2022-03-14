@@ -14,32 +14,32 @@ func main() {
 		time.Sleep(time.Second)
 		year := rand.Intn(2150) + 1
 		month := rand.Intn(12) + 1
-		DaysInMonth := 31
-		typ := ""
+		daysInMonth := 31
+		typeOfYear := ""
 		if year%400 == 0 || (year%4 == 0 && year%100 != 0) {
-			typ = "przestepny"
+			typeOfYear = "leap year"
 		} else {
-			typ = "zwykly"
+			typeOfYear = "year non-leap"
 		}
 		switch month {
 
 		case 2:
 
-			if typ == "przestepny" {
-				DaysInMonth = 29
+			if typeOfYear == "leap year" {
+				daysInMonth = 29
 
 			} else {
-				DaysInMonth = 28
+				daysInMonth = 28
 
 			}
 
 		case 4, 6, 9, 11:
-			DaysInMonth = 30
+			daysInMonth = 30
 
 		}
 
-		day := rand.Intn(DaysInMonth) + 1
-		fmt.Printf("Data: %v %v.%v.%v %v \n", era, day, month, year, typ)
+		day := rand.Intn(daysInMonth) + 1
+		fmt.Printf("Data: %v %v.%v.%v (Type of year: %v) \n", era, day, month, year, typeOfYear)
 	}
 
 }
