@@ -10,6 +10,8 @@ func main() {
 	type1 := "Type"
 	price := "Price"
 
-	fmt.Printf("%-15v %-15v %-15v %-15v $ %-15v ", date, space_line, days, type1, price)
+	fmt.Printf("%-15v %-15v %-15v %-15v $ %-15v \n\n", date, space_line, days, type1, price)
+	fmt.Printf("=======================================================================\n\n")
+	fmt.Printf("TEST\n")
 
 }
