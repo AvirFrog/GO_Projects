@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="574abdd4-2823-4691-b7bd-e4d8897f684d" name="Changes" comment="" />
+    <list default="true" id="574abdd4-2823-4691-b7bd-e4d8897f684d" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/Ticket_Generator/Ticket_Generator.go" beforeDir="false" afterPath="$PROJECT_DIR$/Ticket_Generator/Ticket_Generator.go" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
