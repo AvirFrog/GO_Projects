@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="574abdd4-2823-4691-b7bd-e4d8897f684d" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/Ticket_Generator/Ticket_Generator.go" beforeDir="false" afterPath="$PROJECT_DIR$/Ticket_Generator/Ticket_Generator.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,7 +40,7 @@
     <property name="go.watchers.conflict.with.on.save.actions.check.performed" value="true" />
     <property name="last_opened_file_path" value="$USER_HOME$" />
   </component>
-  <component name="RunManager" selected="Go Build.go build Random_date_generator.go (1)">
+  <component name="RunManager" selected="Go Build.go build Ticket_Generator.go">
     <configuration name="go build Random_date_generator.go (1)" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="GO_Projects" />
       <working_directory value="$PROJECT_DIR$" />
@@ -57,8 +57,17 @@
       <filePath value="$PROJECT_DIR$/Random_date_generator.go" />
       <method v="2" />
     </configuration>
+    <configuration name="go build Ticket_Generator.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="GO_Projects" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/Ticket_Generator/Ticket_Generator.go" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Go Build.go build Ticket_Generator.go" />
         <item itemvalue="Go Build.go build Random_date_generator.go (1)" />
         <item itemvalue="Go Build.go build Random_date_generator.go" />
       </list>
