@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="574abdd4-2823-4691-b7bd-e4d8897f684d" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="574abdd4-2823-4691-b7bd-e4d8897f684d" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -40,7 +38,23 @@
     <property name="go.watchers.conflict.with.on.save.actions.check.performed" value="true" />
     <property name="last_opened_file_path" value="$USER_HOME$" />
   </component>
-  <component name="RunManager" selected="Go Build.go build Ticket_Generator.go">
+  <component name="RunManager" selected="Go Build.go build BetterPiggyBank.go">
+    <configuration name="go build BetterPiggyBank.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="GO_Projects" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/Piggy Bank/BetterPiggyBank.go" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build PiggyBank.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="GO_Projects" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/Piggy Bank/PiggyBank.go" />
+      <method v="2" />
+    </configuration>
     <configuration name="go build Random_date_generator.go (1)" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="GO_Projects" />
       <working_directory value="$PROJECT_DIR$" />
@@ -67,6 +81,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Go Build.go build BetterPiggyBank.go" />
+        <item itemvalue="Go Build.go build PiggyBank.go" />
         <item itemvalue="Go Build.go build Ticket_Generator.go" />
         <item itemvalue="Go Build.go build Random_date_generator.go (1)" />
         <item itemvalue="Go Build.go build Random_date_generator.go" />
