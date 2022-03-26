@@ -38,7 +38,7 @@
     <property name="go.watchers.conflict.with.on.save.actions.check.performed" value="true" />
     <property name="last_opened_file_path" value="$USER_HOME$" />
   </component>
-  <component name="RunManager" selected="Go Build.go build Guess_number.go">
+  <component name="RunManager" selected="Go Build.go build Ticking_TImer.go">
     <configuration name="go build BetterPiggyBank.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="GO_Projects" />
       <working_directory value="$PROJECT_DIR$" />
@@ -63,14 +63,6 @@
       <filePath value="$PROJECT_DIR$/Piggy Bank/PiggyBank.go" />
       <method v="2" />
     </configuration>
-    <configuration name="go build Random_date_generator.go (1)" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
-      <module name="GO_Projects" />
-      <working_directory value="$PROJECT_DIR$" />
-      <kind value="FILE" />
-      <directory value="$PROJECT_DIR$" />
-      <filePath value="$PROJECT_DIR$/Random_date_generator/Random_date_generator.go" />
-      <method v="2" />
-    </configuration>
     <configuration name="go build Ticket_Generator.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="GO_Projects" />
       <working_directory value="$PROJECT_DIR$" />
@@ -79,13 +71,21 @@
       <filePath value="$PROJECT_DIR$/Ticket_Generator/Ticket_Generator.go" />
       <method v="2" />
     </configuration>
+    <configuration name="go build Ticking_TImer.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="GO_Projects" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/Ticking Timer/Ticking_TImer.go" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Go Build.go build Ticking_TImer.go" />
         <item itemvalue="Go Build.go build Guess_number.go" />
         <item itemvalue="Go Build.go build BetterPiggyBank.go" />
         <item itemvalue="Go Build.go build PiggyBank.go" />
         <item itemvalue="Go Build.go build Ticket_Generator.go" />
-        <item itemvalue="Go Build.go build Random_date_generator.go (1)" />
       </list>
     </recent_temporary>
   </component>
